@@ -1453,10 +1453,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@uniswap/v2-core@^1.0.0":
+"@voltage-finance/core@^1.0.1":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
-  integrity sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q==
+  resolved "https://registry.yarnpkg.com/@voltage-finance/core/-/core-1.0.1.tgz#c345e0030c61994128181623762fd02354ea2018"
+  integrity sha512-C51OVjoi7SLqkeowmxhqkw/wCcFpzk2j7Mi1kd5QkovjUhpo4TK1FEWEOz3h+r+UmefYjRxhzAFhraQkUABiPg==
 
 abab@^2.0.0:
   version "2.0.3"

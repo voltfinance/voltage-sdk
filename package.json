@@ -1,19 +1,17 @@
 {
-  "name": "@fuseio/fuse-swap-sdk",
+  "name": "@voltage-finance/sdk",
   "license": "MIT",
-  "version": "3.1.0",
-  "description": "🛠 An SDK for building applications on top of Fuseswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of Voltage.finance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/fuseio/fuseswap-sdk.git",
+  "repository": "https://github.com/voltfinance/voltage-sdk.git",
   "keywords": [
     "fuse",
-    "fuseswap",
-    "uniswap",
-    "ethereum"
+    "voltage"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
@@ -24,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@uniswap/v2-core": "^1.0.0",
+    "@voltage-finance/core": "^1.0.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
